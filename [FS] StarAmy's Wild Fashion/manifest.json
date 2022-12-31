@@ -1,10 +1,9 @@
 ﻿{
-  "Name": "Kyuya's accessories Pack",
-  "Author": "Kyuya",
+  "Name": "[FS] StarAmy's Wild Fashion",
+  "Author": "StarAmy",
   "Version": "1.0.0",
   "Description": "Here are all the accessories of kyuya.",
   "UniqueID": "StarAmy.WildFashion",
-  "Dependencies": [],
   "ContentPackFor": {
     "UniqueID": "PeacefulEnd.FashionSense",
     "MinimumVersion": "4.3.0"
